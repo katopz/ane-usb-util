@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.7">
+    <id>com.debokeh.anes.utils.USBUtil</id>
+    <versionNumber>1.0.0</versionNumber>
+    <platforms>
+        <platform name="Windows-x86">
+            <applicationDeployment>
+                <nativeLibrary>USBUtil.dll</nativeLibrary>
+                <initializer>USBUtilInitializer</initializer>
+                <finalizer>USBUtilFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+    </platforms>
+</extension>

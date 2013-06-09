@@ -1,0 +1,1 @@
+adt -package -target ane ane-usb-util.ane extension.xml -swc ane-usb-util.swc -platform Windows-x86 library.swf USBUtil.dll

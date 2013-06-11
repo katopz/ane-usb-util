@@ -1,4 +1,10 @@
-// Will list all USB device ID
+//
+//  USBUtil
+//  Will list all USB device ID
+//
+//  Created by Todsaporn Banjerdkit (katopz) on 09/06/2013.
+//  Copyright (c) 2012 Todsaporn Banjerdkit. All rights reserved.
+//
 
 // c++
 #include "stdafx.h"
